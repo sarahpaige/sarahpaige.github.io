@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sarahpaige.github.io/sitemap.xml
